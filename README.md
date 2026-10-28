@@ -10,8 +10,6 @@ It started as a fun, cosmetic project: a little "glass cockpit" for the camera t
 
 ![Demo Mode](docs/demo.jpg)
 
-![Another view through the FPV camera](docs/fpv-view2.jpg)
-
 ## Features
 
 - **Artificial horizon** with sky and ground, roll-following pitch ladder, bank ticks, and a fixed aircraft symbol styled after the one found in the "Clash Bonafide" HD FPV font from [SneakyFPV](https://sites.google.com/view/sneaky-fpv/home). The symbol's bars sit on the horizon when you're level.
