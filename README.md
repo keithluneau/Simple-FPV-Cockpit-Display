@@ -6,9 +6,9 @@ A tiny instrument panel for the cockpit of your FPV plane. The ESP32-S3 reads MA
 
 It started as a fun, cosmetic project: a little "glass cockpit" for the camera to look at, styled after the artificial horizon on an FPV OSD. It is **not** a flight instrument. See [Disclaimer](#disclaimer).
 
-![View through the FPV camera](docs/fpvview.jpg)
+![Example 1](docs/example1.jpg)
 
-![Demo Mode](docs/demo.jpg)
+![Example 2](docs/example2.jpg)
 
 ## Features
 
