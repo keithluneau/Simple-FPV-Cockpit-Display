@@ -10,6 +10,12 @@ It started as a fun, cosmetic project: a little "glass cockpit" for the camera t
 
 ![Example 2](docs/example2.jpg)
 
+## Screen layout
+![Annotated screen layout](docs/screen-layout-annotated.png)
+The display has these main states. The warning pop-ups blink, except the five-second `ARMED` notice, which is steady:
+![Screen states](docs/screen-states.png)
+These images are renderings made with the same drawing geometry and default settings as the sketch, so they show how the screen is laid out. The real LCD uses its own built-in pixel font and slightly different colors. For the view through an FPV camera, see the photos above.
+
 ## Features
 
 - **Artificial horizon** with sky and ground, roll-following pitch ladder, bank ticks, and a fixed aircraft symbol styled after the one found in the "Clash Bonafide" HD FPV font from [SneakyFPV](https://sites.google.com/view/sneaky-fpv/home). The symbol's bars sit on the horizon when you're level.
